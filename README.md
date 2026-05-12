@@ -1,7 +1,6 @@
 # 🏟️ Flow Control — AI-Based Crowd Management System
 
-> **Graduation Project** | Department of Artificial Intelligence, University of Jordan  
-> Mustafa Firas Mustafa Mathhar · Zaid Abdullah Yousef Awad · Yazan Naesr Mohammad Algazi
+> Mustafa Firas Mustafa Mathhar 
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.6.0-red?logo=pytorch)](https://pytorch.org/)
