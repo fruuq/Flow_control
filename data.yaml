@@ -1,0 +1,6 @@
+train: C:\Users\hatem\Desktop\yolo_dataset\train
+val: C:\Users\hatem\Desktop\yolo_dataset\valid
+test: C:\Users\hatem\Desktop\yolo_dataset\test
+nc: 1
+names:
+- person
